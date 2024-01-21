@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Githun Repo](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Githun Repo](https://github.com/adityas-github/Social-links-profile-main.git)
+- Live Site URL: [Netlify](https://social-links-profile-frontend.netlify.app/)
 
 ## My process
 
